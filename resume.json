@@ -28,13 +28,13 @@
       "position": "Senior Software Developer",
       "website": "https://akiri.com/",
       "startDate": "2018-02-01",
-      "summary": "Currently working as a senior software developer as a full stack developer, developing a secure private network optimized for transfering health and medical data.  Akiri has built a network to connect medical and health enterprises using VPN technology complete with auditing and disaster recovery features using AWS.  My main area of focus on the team is UI development, APIs, and monitoring.",
+      "summary": "Currently working as a full stack developer, implementing a secure private network optimized for transfering health and medical data.  Akiri has built a network to connect medical and health enterprises using VPN technology complete with auditing and disaster recovery features using AWS.  My main area of focus on the team is leading and designing the UI, APIs, and monitoring solutions.",
       "highlights": [
         "Responsible for leading UI development and driving features to completion using Vue and Vuetify.",
-        "Championed unit test developement within the UI codebase to ensure code quality using Jest.",
+        "Championed unit test development within the UI codebase to ensure code quality using Jest.",
         "Developed end to end tests using Cypress to test our demo process.",
         "Mentored junior developers by performing code reviews and providing UI design advice.",
-        "Designed and implemented part of our monitoring solution using InfluxDB, Telegraf and Grafana.",
+        "Designed part of our monitoring solution using InfluxDB, Telegraf and Grafana.  Implemented the solution using Terraform and AWS.",
         "Developed disaster recovery for our InfluxDB and Grafana monitoring solution across AWS regions using EFS and DataSync.",
         "Design and implemented our documention site solution using VuePress with integration with our main UI."
       ]
