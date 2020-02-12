@@ -177,12 +177,12 @@
         "Vuex",
         "Angular",
         "REST",        
+        "JSON",
         "NodeJS",
         "RxJS",
         "Web Sockets",        
         "HTML5",
         "SASS/CSS",
-        "JSON",
         "JQuery",
         "Play Framework",
         "Spring Framework"
@@ -230,6 +230,7 @@
       "keywords": [
         "AWS",
         "Docker",
+        "Kubernetes",
         "OpenStack",
         "DCOS",
         "VMWare"
