@@ -13,7 +13,14 @@
       "countryCode": "CANADA",
       "region": "New Brunswick"
     },
-    "profiles": []
+    "profiles": [{
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/graham-lounder"
+    },{
+      "network": "Github",
+      "username": "glounder",
+      "url": "https://github.com/glounder"
+    }]
   },
   "work": [
     {
@@ -167,19 +174,18 @@
       "keywords": [
         "Vue",
         "Vuetify",
+        "Vuex",
+        "Angular",
+        "REST",        
+        "NodeJS",
+        "RxJS",
+        "Web Sockets",        
         "HTML5",
         "SASS/CSS",
         "JSON",
-        "NodeJS",
-        "Angular/AngularJS",
-        "RxJS",
-        "REST",
-        "Web Sockets",
         "JQuery",
         "Play Framework",
-        "Spring Framework",
-        "JDBC",
-        "XML"
+        "Spring Framework"
       ]
     },
     {
@@ -206,13 +212,14 @@
       "name": "Software Tools",
       "level": "",
       "keywords": [
-        "Visual Studio Code",
+        "VS Code",
         "IntelliJ",
         "Eclipse",
         "Sourcetree",
         "Jenkins",
         "Artifactory",
         "JIRA",
+        "Github",
         "Bit Bucket",
         "Trello"
       ]
@@ -224,8 +231,8 @@
         "AWS",
         "Docker",
         "OpenStack",
-        "VMWare",
-        "DCOS"
+        "DCOS",
+        "VMWare"
       ]
     }
   ],
@@ -245,15 +252,15 @@
       "keywords": []
     },
     {
+      "name": "Jogging",
+      "keywords": []
+    },    
+    {
       "name": "Gaming",
       "keywords": []
     },
     {
       "name": "Tae Kwon Do",
-      "keywords": []
-    },
-    {
-      "name": "Jogging",
       "keywords": []
     }
   ],
