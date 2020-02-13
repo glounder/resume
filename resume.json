@@ -28,7 +28,7 @@
       "position": "Senior Software Developer",
       "website": "https://akiri.com/",
       "startDate": "2018-02-01",
-      "summary": "Currently working as a full stack developer, implementing a secure private network optimized for transfering health and medical data.  Akiri has built a network to connect medical and health enterprises using VPN technology complete with auditing and disaster recovery features using AWS.  My main area of focus on the team is leading and designing the UI, APIs, and monitoring solutions.",
+      "summary": "Currently working as a full stack developer, implementing a secure private network optimized for transferring health and medical data.  Akiri has built a network to connect medical and health enterprises using VPN technology complete with auditing and disaster recovery features using AWS.  My main area of focus on the team is leading and designing the UI, APIs, and monitoring solutions.",
       "highlights": [
         "Responsible for leading UI development and driving features to completion using Vue and Vuetify.",
         "Championed unit test development within the UI codebase to ensure code quality using Jest.",
@@ -129,12 +129,12 @@
       "website": "",
       "startDate": "2006-10-01",
       "endDate": "2010-09-01",
-      "summary": "Oracle aquired Skywire Software who aquired Whitehill Technologies.  I was originally hired by Whitehill Technologies.  Worked on a product called Whitehill BPI.  It was used by law firms as a tool to speed up the intake of new customers and mitigate risk by searching for conflicts of interest.  ",
+      "summary": "I became an employee of Oracle through an acquisition of Skywire Software who had acquired Whitehill Technologies.  Worked on a product called Whitehill One which was used by law firms to speed up the intake of new customers.  Whitehill One would help mitigate risk to law firms by searching for conflicts of interest.",
       "highlights": [
-        "Implemented new features in BPI, a java based project.",
-        "Helped customers implemented their own solutions in BPI.",
-        "Gave training to iWave employees when they purchased the source code for BPI.",
-        "Once aquired by Oracle, worked on finding a replacement technology within Oracle products to replace BPI."
+        "Implemented new features in Whitehhill One, a java based project.",
+        "Helped customers implemented their own solutions in Whitehill One.",
+        "Gave training to iWave employees when they purchased the source code for Whitehill One.",
+        "Once aquired by Oracle, worked on finding a replacement technology within Oracle products to replace some of the features in Whitehill One."
       ]
     },
     {
