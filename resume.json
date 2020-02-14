@@ -111,7 +111,7 @@
     {
       "company": "VINVOX",
       "position": "Software Developer",
-      "website": "https://www.oracle.com/",
+      "website": "",
       "startDate": "2010-09-01",
       "endDate": "2012-06-01",
       "summary": "Worked as an individual contributor for a local startup called VINVOX.  VINVOX was working on a hardware device that would monitor a vehicles mileage and error codes on the ODB port and transmit the data over the cell network to our servers. ",
@@ -127,7 +127,7 @@
     {
       "company": "Oracle",
       "position": "Senior Java Developer",
-      "website": "",
+      "website": "https://www.oracle.com/",
       "startDate": "2006-10-01",
       "endDate": "2010-09-01",
       "summary": "I became an employee of Oracle through an acquisition of Skywire Software who had acquired Whitehill Technologies.  Worked on a product called Whitehill One which was used by law firms to speed up the intake of new customers.  Whitehill One would help mitigate risk to law firms by searching for conflicts of interest.",
