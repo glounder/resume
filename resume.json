@@ -36,7 +36,8 @@
         "Mentored junior developers by performing code reviews and providing UI design advice.",
         "Designed part of our monitoring solution using InfluxDB, Telegraf and Grafana.  Implemented the solution using Terraform and AWS.",
         "Developed disaster recovery for our InfluxDB and Grafana monitoring solution across AWS regions using EFS and DataSync.",
-        "Design and implemented our documention site solution using VuePress with integration with our main UI."
+        "Design and implemented our documention site solution using VuePress with integration with our main UI.",
+        "Implemented an RBAC solution in the UI to be able to hide/show any elements in the UI based on which actions users have access to."
       ]
     },
     {
@@ -110,7 +111,7 @@
     {
       "company": "VINVOX",
       "position": "Software Developer",
-      "website": "",
+      "website": "https://www.oracle.com/",
       "startDate": "2010-09-01",
       "endDate": "2012-06-01",
       "summary": "Worked as an individual contributor for a local startup called VINVOX.  VINVOX was working on a hardware device that would monitor a vehicles mileage and error codes on the ODB port and transmit the data over the cell network to our servers. ",
