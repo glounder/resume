@@ -5,7 +5,7 @@
     "picture": "https://raw.githubusercontent.com/glounder/resume/master/profile-03.jpeg",
     "email": "graham.lounder@gmail.com",
     "phone": "(506) 866-5466",
-    "summary": "Senior Developer with 18+ years of experience with all stages of development life cycle. Strong skills managing team workload, making decisions, and collaborating with external teams.  I have experience working with teams small and large, all over the globe.  I’m focused on what needs to get done and making decisions to move forward.  I always give my opinion but always try and work towards what the team thinks is best.  I’m looking for a new challenge where I can learn new technologies and be a productive member of a highly motivated team.",
+    "summary": "Senior Developer with 18+ years of experience with all stages of development life cycle. Strong skills managing team workload, making decisions, and implementing solutions.  I’m focused on what needs to get done and making decisions to move forward.  I’m looking for a new challenge where I can learn new technologies and be a productive member of a highly motivated team.",
     "location": {
       "address": "31 Galbraith Cres",
       "postalCode": "E1G 2G3",
@@ -28,16 +28,14 @@
       "position": "Senior Software Developer",
       "website": "https://akiri.com/",
       "startDate": "2018-02-01",
-      "summary": "Currently working as a full stack developer, implementing a secure private network optimized for transferring healthcare data.  Akiri has built a cloud-based product to connect medical and health enterprises using VPN technology complete with auditing and disaster recovery features.  My main area of focus on the team is leading and designing the UI, APIs, and monitoring solutions.",
+      "summary": "Currently working as a full stack developer, implementing a secure private network optimized for transferring healthcare data.  Akiri has built a cloud-based product to connect medical and health enterprises using VPN technology complete with auditing and disaster recovery features.",
       "highlights": [
-        "Responsible for leading UI development and driving features to completion using Vue and Vuetify.",
-        "Championed unit test development within the UI codebase to ensure code quality using Jest.",
-        "Developed end to end tests using Cypress to test our demo process.",
+        "Responsible for leading UI development using Vue and Vuetify.",
+        "Championed e2e and unit test development within the UI using Cypress and Jest.",
         "Mentored junior developers by performing code reviews and providing UI design advice.",
-        "Designed part of our monitoring solution using InfluxDB, Telegraf and Grafana.  Implemented the solution using Terraform and AWS.",
-        "Developed disaster recovery for our InfluxDB and Grafana monitoring solution across AWS regions using EFS and DataSync.",
-        "Design and implemented our documention site solution using VuePress with integration with our main UI.",
-        "Implemented an RBAC solution in the UI to be able to hide/show any elements in the UI based on which actions users have access to."
+        "Designed part of our monitoring solution using InfluxDB, Telegraf and Grafana.",
+        "Developed disaster recovery for our InfluxDB monitoring solution across AWS regions.",
+        "Implemented an RBAC solution in the UI to be able to hide/show any elements in the UI."
       ]
     },
     {
@@ -46,22 +44,16 @@
       "website": "https://www.dellemc.com/",
       "startDate": "2017-01-01",
       "endDate": "2018-01-31",
-      "summary": "Worked as head engineer on Nautilus, a real-time analytics and streaming storage solution that is backed by Isilon or ECS for long term storage.  Nautilus combines Pravega (streaming storage) and Apache Flink (streaming analytics) on top of a DCOS managed cluster.  Worked towards a GA release that will combine the solution with Dell servers that is serviced by Dell EMC.  My team was responsible for the implementation of installing, monitoring, upgrading, and the serviceability of the product.  Previously, I was working as an individual contributor working on the monitoring system for Nautilus.",
+      "summary": "Worked as head engineer on Nautilus, a real-time analytics and streaming storage solution backed by Isilon or ECS for long term storage.  Nautilus combines Pravega (streaming storage) and Apache Flink (streaming analytics) on top of a DC/OS managed cluster.  My team was responsible for the implementation of installing, monitoring, upgrading, and the serviceability of the product.",
       "highlights": [
         "Responsible for planning and ensuring team is meeting requirements and that the product is fully tested.",
         "Collaborating with teams outside of the Nautilus engineering team.",
         "Managing a team of 7 developers, 2 of which are remote.  Also responsible for representing the Pravega and Flink teams outside of the Nautilus.",
         "Using a Kanban board and weekly planning meetings to manage developer workload.",
         "Responsible for managing software releases and defining the release schedule.",
-        "Provide engineering support for people using Nautilus.",
         "Perform code reviews to provide feedback to the development team.",
-        "Worked on defining hardware specifications for our appliance solution.",
         "Designed and implemented the monitoring solution for Nautilus using the Influx TICK stack on top of DCOS.",
-        "Implemented an HA solution for the Influx DB using DCOS and the DCOS Commons SDK.  Ensured data recovery when the Influx DB task moved to another node.",
-        "Worked on displaying charts and alerts in the Nautilus UI from the monitoring system.",
-        "Implemented a solution where Telegraf was added to DCOS as a package to collect node metrics to help the performance team determine if there were any bottlenecks in the Pravega streaming software.",
-        "Wrote UI Unit tests using Protractor and Jasmine.",
-        "Used JIRA, Bit Bucket Server, Jenkins and Artifactory to manage and build the project."
+        "Worked on displaying charts and alerts in the Nautilus UI from the monitoring system."
       ]
     },
     {
@@ -70,18 +62,14 @@
       "website": "https://www.dellemc.com",
       "startDate": "2015-11-01",
       "endDate": "2017-01-01",
-      "summary": "Managed the UI team on Neutrino where I coded about half the time.  Neutrino was an appliance that provided customers with a turn key solution to running their own OpenStack cluster.  The project was terminated shortly after Dell acquired EMC and we moved to the Nautilus project.",
+      "summary": "Managed the UI team on Neutrino where I coded 50% the time.  Neutrino was an appliance that provided customers with a turn key solution to running their own OpenStack cluster.  The project was terminated shortly after Dell acquired EMC and we moved to the Nautilus project.",
       "highlights": [
         "Managed a team of 7 developers, assigned work, conducted code reviews, and reported status to stakeholders.",
-        "Experience with managing remote members of the team.",
         "Colaborated with other teams within Neutrino to produce APIs required by the UI to improve user experience.",
-        "Campaigned for and implemented a task monitoring system for Neutrino.  This gave great visibility into the cluster where services were being deployed over multiple nodes that we couldn’t see before.  This system also augmented our visibility into our upgrade process that was a rolling update across nodes.",
-        "Implemented a web version of the ScaleIO java UI using AngularJS.  Neutrino was able to show numerous ScaleIO metrics in the UI refreshing every 2 seconds without any issues.",
+        "Campaigned for and implemented a task monitoring system for Neutrino.  This gave great visibility into the cluster where services were being deployed/upgraded over multiple nodes that we couldn’t see before.",
+        "Implemented a web version of the ScaleIO java UI using AngularJS.",
         "With the major rewrite from AngularJS to Angular 2, designed a phased plan to upgrade the Neutrino UI codebase.",
-        "Implemented a system using web sockets to have changes made in the UI reflected to the other instances of the UI.",
-        "Gained experience implementing a large javascript project.",
-        "Used JIRA, Bit Bucket Server, Jenkins and Artifactory to manage and build the project.",
-        "Used agile/scrum to manage the team with 3 week sprints (synced across multiple teams on the project)."
+        "Implemented a system using web sockets to have changes made in the UI reflected to the other instances of the UI."
       ]
     },
     {
@@ -90,14 +78,7 @@
       "website": "https://www.dellemc.com",
       "startDate": "2013-01-01",
       "endDate": "2015-11-01",
-      "summary": "Worked as an individual contributor on ViPR.  ViPR is a software-defined storage platform that abstracts, pools, and automates a data center’s underlying physical storage.  With the acquisition of iWave Software by EMC, the Storage Automator UI and host automation was added to the ViPR product.",
-      "highlights": [
-        "Worked on the Service Catalog in ViPR.  The Service Catalog was used by end users to order storage, provision it, and optionally mount it to a host.  Orders were tracked and updated in real time in the UI.",
-        "Developed an API for the Service Catalog to allow other systems to integrate with the catalog.",
-        "Helped develop a dynamic form system for the Service Catalog, allowing new items in the catalog to be added using JSON definitions.",
-        "After the 1.0 release of ViPR, worked on a custom solution for a client.  We used python to build a CLI that would interact with the Service Catalog API to provision storage based on the client’s specifications.",
-        "Worked with the Play Framework to produce the UI and APIs for the Service Catalog."
-      ]
+      "summary": "Worked as an individual contributor on ViPR.  ViPR is a software-defined storage platform that abstracts, pools, and automates a data center’s underlying physical storage.  With the acquisition of iWave Software by EMC, the Storage Automator UI and host automation was added to the ViPR product."
     },
     {
       "company": "iWave Software",
@@ -114,15 +95,7 @@
       "website": "",
       "startDate": "2010-09-01",
       "endDate": "2012-06-01",
-      "summary": "Worked as an individual contributor for a local startup called VINVOX.  VINVOX was working on a hardware device that would monitor a vehicles mileage and error codes on the ODB port and transmit the data over the cell network to our servers. ",
-      "highlights": [
-        "Worked on integrating SMS with our system so users could be notified if their vehicle needed maintenance or if the check engine light came on in their car.  This would prompt the user to go online and book an appointment.",
-        "Implemented a scheduling system that managed technicians and appointments for a dealership.",
-        "Built a Flex UI that would interact with the scheduling system by a dealership’s service advisors.",
-        "Built a web site that allowed end users to book their own appointments in the scheduling system.",
-        "Used Gradle on Rails as the backend to the Flex UI.",
-        "Used agile/scrum for the first time on this project.  Used Fibonacci cards to do estimates during planning meeting."
-      ]
+      "summary": "Worked as an individual contributor for a local startup called VINVOX.  VINVOX was working on a hardware device that would monitor a vehicles mileage and error codes on the ODB port and transmit the data over the cell network to our servers. "
     },
     {
       "company": "Oracle",
@@ -130,13 +103,7 @@
       "website": "https://www.oracle.com/",
       "startDate": "2006-10-01",
       "endDate": "2010-09-01",
-      "summary": "I became an employee of Oracle through an acquisition of Skywire Software who had acquired Whitehill Technologies.  Worked on a product called Whitehill One which was used by law firms to speed up the intake of new customers.  Whitehill One would help mitigate risk to law firms by searching for conflicts of interest.",
-      "highlights": [
-        "Implemented new features in Whitehhill One, a java based business process integration engine.",
-        "Helped customers implemented their own solutions using Whitehill One.",
-        "Gave training to iWave employees when they purchased the source code for Whitehill One.",
-        "Once aquired by Oracle, worked on finding a replacement technology within Oracle products to replace some of the features in Whitehill One."
-      ]
+      "summary": "I became an employee of Oracle through an acquisition of Skywire Software who had acquired Whitehill Technologies.  Worked on a product called Whitehill One which was used by law firms to speed up the intake of new customers.  Whitehill One would help mitigate risk to law firms by searching for conflicts of interest."
     },
     {
       "company": "CARIS",
@@ -144,14 +111,7 @@
       "website": "http://www.caris.com/",
       "startDate": "2002-05-01",
       "endDate": "2006-10-01",
-      "summary": "Started as a web developer furthering CARIS' technologies into web based mapping (before the time of Google Maps). Eventually, my initial work in the area and numerous custom projects formed the basis of Spatial Fusion Enterprise.  Spatial Fusion Enterprise allows customers to host their own mapping data online.",
-      "highlights": [
-        "Created a custom web mapping solution using hidden iframes and AJAX calls.",
-        "Worked on numerous custom web mapping solutions taking from 3 to 6 months to implement as a sole developer.",
-        "Gathered requirements from customers directly, providing updates on the product to stakeholders.",
-        "Worked on creating common code for the web mapping components to create the basis of the Spatial Fusion Enterprise product.",
-        "Used Apache Struts, Spring Framework, and Apache OJB to build the product.  Project supported Netscape 4 and IE 6."
-      ]
+      "summary": "Started as a web developer furthering CARIS' technologies into web based mapping (before the time of Google Maps). Eventually, my initial work in the area and numerous custom projects formed the basis of Spatial Fusion Enterprise.  Spatial Fusion Enterprise allows customers to host their own mapping data online."
     }
   ],
   "volunteer": [],
@@ -162,8 +122,7 @@
       "studyType": "Bachelor",
       "startDate": "1996-09-01",
       "endDate": "2001-05-01",
-      "gpa": "",
-      "courses": ["Major in Software Systems"]
+      "gpa": ""
     }
   ],
   "awards": [],
@@ -173,68 +132,47 @@
       "name": "Web Technologies",
       "level": "",
       "keywords": [
-        "Vue",
-        "Vuetify",
-        "Vuex",
+        "Vue/Vuetify/Vuex",
         "Angular",
-        "REST",        
-        "JSON",
+        "REST/JSON",        
         "NodeJS",
         "RxJS",
         "Web Sockets",        
         "HTML5",
-        "SASS/CSS",
-        "JQuery",
-        "Play Framework",
-        "Spring Framework"
-      ]
-    },
-    {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": [
-        "Javascript",
-        "Typescript",
-        "Kotlin",
-        "Java",
-        "Python",
-        "Flex"
-      ]
-    },
-    {
-      "name": "Version Control",
-      "level": "",
-      "keywords": [
-        "GIT",
-        "SVN"
+        "SASS/CSS"
       ]
     },
     {
       "name": "Software Tools",
       "level": "",
       "keywords": [
+        "GIT/SVN",
         "VS Code",
-        "IntelliJ",
-        "Eclipse",
+        "IntelliJ/Eclipse",
         "Sourcetree",
         "Jenkins",
         "Artifactory",
         "JIRA",
-        "Github",
-        "Bit Bucket",
         "Trello"
       ]
     },
     {
-      "name": "Cloud Platforms",
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Javascript/Typescript",
+        "Java/Kotlin",
+        "Python"
+      ]
+    },    
+    {
+      "name": "Infrastructure",
       "level": "",
       "keywords": [
         "AWS",
         "Docker",
-        "Kubernetes",
-        "OpenStack",
-        "DCOS",
-        "VMWare"
+        "Kubernetes/DCOS",
+        "VMWare/OpenStack"
       ]
     }
   ],
